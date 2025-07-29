@@ -149,10 +149,4 @@ Potential features that could be added:
 
 Feel free to fork this project and submit pull requests for any improvements!
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
 *Built with Python 3 - Simple, effective task management from the command line!*
